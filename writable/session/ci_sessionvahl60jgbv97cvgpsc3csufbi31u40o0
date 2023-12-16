@@ -1,0 +1,9 @@
+__ci_last_regenerate|i:1678093502;_ci_previous_url|s:60:"http://localhost/petalokasiobjek/public/index.php/home/input";message|a:2:{s:4:"type";s:6:"danger";s:7:"content";s:225:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>Nama harus diisi</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";}__ci_vars|a:1:{s:7:"message";s:3:"old";}
